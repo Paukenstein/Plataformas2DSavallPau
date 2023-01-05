@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlataformaMovil
+  - Enemigo
+  - Bananna
+  - Cannon
+  - CannonBall
+  - PlataformaPortal
+  - Boton
+  - Meta1
+  - BannanaFIN
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Enemigo
+  - Lejano
+  - Lejano2
+  - PrimerPlano
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Lejano2
+    uniqueID: 3695847951
+    locked: 0
+  - name: Lejano
+    uniqueID: 1553373989
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: PrimerPlano
+    uniqueID: 778360883
+    locked: 0
